@@ -77,7 +77,8 @@ print("a =", a, "b =", b, "c =", c)
 # Complete the following assignments:
 
 # String variable containing your favorite color
-favorite_color = Black
+
+favorite_color = Blue
 
 # Integer variable with the current year
 current_year = 2025
@@ -87,6 +88,7 @@ favorite_number = 2222
 
 # Boolean variable indicating if you like pizza
 likes_pizza = True
+
 
 # Print all variables with descriptive messages
 print("My favorite color is:", favorite_color)
